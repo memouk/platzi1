@@ -6,6 +6,7 @@ git add readme.md nos permite subir al stage los cambio que posteriormente subir
 otros comando mportarntes son git log
 subimos el cambiso con git commit -m "todo"
 
-git reset nos permite ir a otro comint si parametrizamos --soft los que esta en el staging queda disponible para subirlo al proximo commit , si utilizamos --hard nos devolvemos al commit de eleccion y perdemos todo delicado
+git reset nos permite ir a otro comint si parametrizamos --soft los que esta en el staging queda disponible para git asubirlo al proximo commit , si utilizamos --hard nos devolvemos al commit de eleccion y perdemos todo delicado
 git checkout nos permite volver a un commit y volver a la rama principal cuando queramos
 si queremos guardear archivos en el commit al que volvimos los guardamos y subimos d eneuvo al repo
+se practico con un index. html y un readme
